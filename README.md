@@ -1,12 +1,9 @@
-### Sistema de gerenciamento de imagens
-
-Install Node.js;
-</br>
-Go to project folder;
-</br>
-Run npm install;
-</br>
-Run npm start;
-</br>
-
-http://localhost:3000
+### FunPic
+#### Simple image management system
+========================================
+> Install Node@8+;
+> Go to project folder;
+> Run npm install;
+> Run npm start;
+> Access http://localhost:3000
+========================================
